@@ -1,0 +1,87 @@
+[{
+  "_id": {
+    "$oid": "60467b960669243e0cad83f2"
+  },
+  "seller": {
+    "rating": 4.5,
+    "numReviews": 120,
+    "name": "Gaurav",
+    "logo": "/images/p1.jpg",
+    "description": "best seller"
+  },
+  "isAdmin": true,
+  "isSeller": true,
+  "name": "Gaurav",
+  "email": "admin@example.com",
+  "password": "$2a$08$ZBr4EbrsQZG787jYm8fYLuNyqfjuOWnIHeuQbW/wd2ghdn1iNyoWO",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-03-08T19:31:34.269Z"
+  },
+  "updatedAt": {
+    "$date": "2021-03-09T18:04:27.533Z"
+  }
+},{
+  "_id": {
+    "$oid": "60467b960669243e0cad83f3"
+  },
+  "seller": {
+    "rating": 0,
+    "numReviews": 0
+  },
+  "isAdmin": false,
+  "isSeller": false,
+  "name": "Chintu",
+  "email": "chintuuser@example.com",
+  "password": "$2a$08$lzZvh1bP2g6y1mZ.IhqaiuPXRlc2Fyg5VqVKiSVeKByGgCXKQRkBy",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2021-03-08T19:31:34.273Z"
+  },
+  "updatedAt": {
+    "$date": "2021-03-08T19:31:34.273Z"
+  }
+},{
+  "_id": {
+    "$oid": "60473f4eef9b6e12ecc66bf9"
+  },
+  "seller": {
+    "rating": 0,
+    "numReviews": 0,
+    "description": "Best Seller",
+    "logo": "/images/d2.jpg",
+    "name": "parth"
+  },
+  "isAdmin": false,
+  "isSeller": true,
+  "name": "Parth",
+  "email": "parth@gmail.com",
+  "password": "$2a$08$oUcZ6SHKNzW2fZrNs8TkBek.N.hIXUZ30Qol/8d7jkBsOz4nLG/7q",
+  "createdAt": {
+    "$date": "2021-03-09T09:26:38.497Z"
+  },
+  "updatedAt": {
+    "$date": "2021-03-09T09:29:12.119Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "605eae505bbe092b9cad475e"
+  },
+  "seller": {
+    "rating": 0,
+    "numReviews": 0
+  },
+  "isAdmin": false,
+  "isSeller": false,
+  "name": "kisna",
+  "email": "kp@yahoo.com",
+  "password": "$2a$08$1I.TpW0LxRp.Rp.vTygEc.z1nLJEcoYMRkkFtLhFzfkmjwFtXYfVq",
+  "createdAt": {
+    "$date": "2021-03-27T04:02:24.632Z"
+  },
+  "updatedAt": {
+    "$date": "2021-03-27T04:02:24.632Z"
+  },
+  "__v": 0
+}]

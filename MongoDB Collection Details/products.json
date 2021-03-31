@@ -1,0 +1,395 @@
+[{
+  "_id": {
+    "$oid": "60471a39990f8721042ab77c"
+  },
+  "name": "Nike Slim Pant",
+  "seller": {
+    "$oid": "60467b960669243e0cad83f2"
+  },
+  "image": "/images/s3.jpg",
+  "price": 50,
+  "category": "Suit",
+  "brand": "Nike",
+  "countInStock": 5,
+  "rating": 5,
+  "numReviews": 10,
+  "description": "sample description",
+  "createdAt": {
+    "$date": "2021-03-09T06:48:25.814Z"
+  },
+  "updatedAt": {
+    "$date": "2021-03-10T08:12:16.697Z"
+  },
+  "__v": 1,
+  "reviews": []
+},{
+  "_id": {
+    "$oid": "6047342e34bdfd2018586f3c"
+  },
+  "name": "Nike Slim Shirt",
+  "seller": {
+    "$oid": "60467b960669243e0cad83f2"
+  },
+  "image": "/images/s2.jpg",
+  "price": 75,
+  "category": "Suit",
+  "brand": "Puma",
+  "countInStock": 2,
+  "rating": 3,
+  "numReviews": 15,
+  "description": "sample description",
+  "createdAt": {
+    "$date": "2021-03-09T08:39:10.922Z"
+  },
+  "updatedAt": {
+    "$date": "2021-03-10T08:12:02.455Z"
+  },
+  "__v": 1,
+  "reviews": []
+},{
+  "_id": {
+    "$oid": "6047347534bdfd2018586f3d"
+  },
+  "name": "Jack Slim Pant",
+  "seller": {
+    "$oid": "60467b960669243e0cad83f2"
+  },
+  "image": "/images/s1.jpg",
+  "price": 100,
+  "category": "Suit",
+  "brand": "Jack n Jones",
+  "countInStock": 10,
+  "rating": 3.5,
+  "numReviews": 5,
+  "description": "sample description",
+  "createdAt": {
+    "$date": "2021-03-09T08:40:21.128Z"
+  },
+  "updatedAt": {
+    "$date": "2021-03-10T08:11:44.568Z"
+  },
+  "__v": 1,
+  "reviews": []
+},{
+  "_id": {
+    "$oid": "6047347934bdfd2018586f3e"
+  },
+  "name": "Levis Slim Shirt",
+  "seller": {
+    "$oid": "60467b960669243e0cad83f2"
+  },
+  "image": "/images/j3.jpg",
+  "price": 125,
+  "category": "Jacket",
+  "brand": "Levis",
+  "countInStock": 10,
+  "rating": 2.8,
+  "numReviews": 20,
+  "description": "sample description",
+  "createdAt": {
+    "$date": "2021-03-09T08:40:25.480Z"
+  },
+  "updatedAt": {
+    "$date": "2021-03-10T07:54:05.692Z"
+  },
+  "__v": 1,
+  "reviews": []
+},{
+  "_id": {
+    "$oid": "6047347f34bdfd2018586f3f"
+  },
+  "name": "Lee Jacket",
+  "seller": {
+    "$oid": "60467b960669243e0cad83f2"
+  },
+  "image": "/images/j2.jpg",
+  "price": 150,
+  "category": "Jacket",
+  "brand": "Lee",
+  "countInStock": 25,
+  "rating": 4,
+  "numReviews": 20,
+  "description": "sample description",
+  "createdAt": {
+    "$date": "2021-03-09T08:40:31.906Z"
+  },
+  "updatedAt": {
+    "$date": "2021-03-10T07:53:58.449Z"
+  },
+  "__v": 1,
+  "reviews": []
+},{
+  "_id": {
+    "$oid": "6047348434bdfd2018586f40"
+  },
+  "name": "Monte Carlo Jacket",
+  "seller": {
+    "$oid": "60467b960669243e0cad83f2"
+  },
+  "image": "/images/j1.jpg",
+  "price": 250,
+  "category": "Jacket",
+  "brand": "Monte Carlo",
+  "countInStock": 12,
+  "rating": 2,
+  "numReviews": 15,
+  "description": "sample description",
+  "createdAt": {
+    "$date": "2021-03-09T08:40:36.160Z"
+  },
+  "updatedAt": {
+    "$date": "2021-03-10T07:53:50.599Z"
+  },
+  "__v": 1,
+  "reviews": []
+},{
+  "_id": {
+    "$oid": "6047348934bdfd2018586f41"
+  },
+  "name": "Bblerry Fit Shirt",
+  "seller": {
+    "$oid": "60467b960669243e0cad83f2"
+  },
+  "image": "/images/p3.jpg",
+  "price": 500,
+  "category": "Pants",
+  "brand": "Blackberry",
+  "countInStock": 15,
+  "rating": 3.5,
+  "numReviews": 10,
+  "description": "sample description",
+  "createdAt": {
+    "$date": "2021-03-09T08:40:41.814Z"
+  },
+  "updatedAt": {
+    "$date": "2021-03-10T07:47:53.440Z"
+  },
+  "__v": 1,
+  "reviews": []
+},{
+  "_id": {
+    "$oid": "6047349134bdfd2018586f42"
+  },
+  "name": "Louis Fit Pant",
+  "seller": {
+    "$oid": "60467b960669243e0cad83f2"
+  },
+  "image": "/images/p5.jpg",
+  "price": 350,
+  "category": "Pants",
+  "brand": "Louis",
+  "countInStock": 12,
+  "rating": 5,
+  "numReviews": 5,
+  "description": "sample description",
+  "createdAt": {
+    "$date": "2021-03-09T08:40:49.126Z"
+  },
+  "updatedAt": {
+    "$date": "2021-03-10T07:46:49.417Z"
+  },
+  "__v": 1,
+  "reviews": []
+},{
+  "_id": {
+    "$oid": "6047443c4d349b282c6cae62"
+  },
+  "name": "Cantabil Slim SHirt",
+  "seller": {
+    "$oid": "60473f4eef9b6e12ecc66bf9"
+  },
+  "image": "/images/p6.jpg",
+  "price": 450,
+  "category": "Pants",
+  "brand": "Cantabil",
+  "countInStock": 5,
+  "rating": 2,
+  "numReviews": 5,
+  "description": "sample description",
+  "createdAt": {
+    "$date": "2021-03-09T09:47:40.950Z"
+  },
+  "updatedAt": {
+    "$date": "2021-03-10T07:41:36.553Z"
+  },
+  "__v": 1,
+  "reviews": []
+},{
+  "_id": {
+    "$oid": "604744494d349b282c6cae63"
+  },
+  "name": "Jockey Pyjama",
+  "seller": {
+    "$oid": "60473f4eef9b6e12ecc66bf9"
+  },
+  "image": "/images/d4.jpg",
+  "price": 175,
+  "category": "Shirts",
+  "brand": "Jockey",
+  "countInStock": 15,
+  "rating": 1,
+  "numReviews": 10,
+  "description": "sample description",
+  "createdAt": {
+    "$date": "2021-03-09T09:47:53.664Z"
+  },
+  "updatedAt": {
+    "$date": "2021-03-10T07:46:07.240Z"
+  },
+  "__v": 1,
+  "reviews": []
+},{
+  "_id": {
+    "$oid": "604744524d349b282c6cae64"
+  },
+  "name": "Lee Jeans",
+  "seller": {
+    "$oid": "60473f4eef9b6e12ecc66bf9"
+  },
+  "image": "/images/p2.jpg",
+  "price": 750,
+  "category": "Shirts",
+  "brand": "Lee",
+  "countInStock": 25,
+  "rating": 4.5,
+  "numReviews": 2,
+  "description": "sample description",
+  "createdAt": {
+    "$date": "2021-03-09T09:48:02.744Z"
+  },
+  "updatedAt": {
+    "$date": "2021-03-10T07:40:06.379Z"
+  },
+  "__v": 2,
+  "reviews": [
+    {
+      "_id": {
+        "$oid": "604765259da223106499759f"
+      },
+      "name": "Parth",
+      "rating": 5,
+      "comment": "Awesome",
+      "createdAt": {
+        "$date": "2021-03-09T12:08:05.006Z"
+      },
+      "updatedAt": {
+        "$date": "2021-03-09T12:08:05.006Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "604765459da22310649975a0"
+      },
+      "name": "Gaurav",
+      "rating": 4,
+      "comment": "Lovelu",
+      "createdAt": {
+        "$date": "2021-03-09T12:08:37.618Z"
+      },
+      "updatedAt": {
+        "$date": "2021-03-09T12:08:37.618Z"
+      }
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "60475c532374ff112870726a"
+  },
+  "name": "Tie ",
+  "seller": {
+    "$oid": "60467b960669243e0cad83f2"
+  },
+  "image": "/uploads\\1616747066618.jpg",
+  "price": 10,
+  "category": "Shirts",
+  "brand": "Lee",
+  "countInStock": 25,
+  "rating": 4,
+  "numReviews": 2,
+  "description": "sample description",
+  "createdAt": {
+    "$date": "2021-03-09T11:30:27.517Z"
+  },
+  "updatedAt": {
+    "$date": "2021-03-26T08:24:30.183Z"
+  },
+  "__v": 2,
+  "reviews": [
+    {
+      "_id": {
+        "$oid": "6047649b9da223106499759d"
+      },
+      "name": "Gaurav",
+      "rating": 5,
+      "comment": "Awesome",
+      "createdAt": {
+        "$date": "2021-03-09T12:05:47.453Z"
+      },
+      "updatedAt": {
+        "$date": "2021-03-09T12:05:47.453Z"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "604764e09da223106499759e"
+      },
+      "name": "Parth",
+      "rating": 3,
+      "comment": "Nice\n",
+      "createdAt": {
+        "$date": "2021-03-09T12:06:56.046Z"
+      },
+      "updatedAt": {
+        "$date": "2021-03-09T12:06:56.046Z"
+      }
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "605d9f4a5d9a882cbccd0076"
+  },
+  "name": "Dummy Data 1",
+  "seller": {
+    "$oid": "60467b960669243e0cad83f2"
+  },
+  "image": "/images/p1.jpg",
+  "price": 0,
+  "category": "sample category",
+  "brand": "sample brand",
+  "countInStock": 0,
+  "rating": 0,
+  "numReviews": 0,
+  "description": "sample description",
+  "reviews": [],
+  "createdAt": {
+    "$date": "2021-03-26T08:46:02.959Z"
+  },
+  "updatedAt": {
+    "$date": "2021-03-27T03:55:57.773Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "605eafd55bbe092b9cad4761"
+  },
+  "name": "Dummy Data 12",
+  "seller": {
+    "$oid": "60467b960669243e0cad83f2"
+  },
+  "image": "/images/p1.jpg",
+  "price": 0,
+  "category": "sample category",
+  "brand": "sample brand",
+  "countInStock": 10,
+  "rating": 0,
+  "numReviews": 0,
+  "description": "sample description",
+  "reviews": [],
+  "createdAt": {
+    "$date": "2021-03-27T04:08:53.326Z"
+  },
+  "updatedAt": {
+    "$date": "2021-03-27T04:09:09.818Z"
+  },
+  "__v": 0
+}]

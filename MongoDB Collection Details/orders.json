@@ -1,0 +1,586 @@
+[{
+  "_id": {
+    "$oid": "60462fabdb19814a783e75a8"
+  },
+  "isPaid": true,
+  "isDelivered": true,
+  "orderItems": [
+    {
+      "_id": {
+        "$oid": "60462fabdb19814a783e75a9"
+      },
+      "name": "Nike Slim Shirt",
+      "image": "/images/p1.jpg",
+      "price": 1200,
+      "product": {
+        "$oid": "6044be3f921c4e2c581b595e"
+      },
+      "qty": 1
+    }
+  ],
+  "shippingAddress": {
+    "fullName": "gaurav purohit",
+    "address": "16/43",
+    "city": "jodhpur",
+    "postalCode": "342001",
+    "country": "jodhpur"
+  },
+  "paymentMethod": "SBI",
+  "itemsPrice": 1200,
+  "shippingPrice": 0,
+  "taxPrice": 180,
+  "totalPrice": 1380,
+  "user": {
+    "$oid": "6044ba9867ec442ffc25ac22"
+  },
+  "createdAt": {
+    "$date": "2021-03-08T14:07:39.564Z"
+  },
+  "updatedAt": {
+    "$date": "2021-03-08T18:13:22.780Z"
+  },
+  "__v": 0,
+  "paidAt": {
+    "$date": "2021-03-08T14:08:57.803Z"
+  },
+  "paymentResult": {
+    "id": "9H74661924720963D",
+    "status": "COMPLETED",
+    "update_time": "2021-03-08T14:08:56Z",
+    "email_address": null
+  },
+  "deliveredAt": {
+    "$date": "2021-03-08T18:13:22.767Z"
+  }
+},{
+  "_id": {
+    "$oid": "604663056b3e3f4490396873"
+  },
+  "isPaid": true,
+  "isDelivered": true,
+  "orderItems": [
+    {
+      "_id": {
+        "$oid": "604663056b3e3f4490396874"
+      },
+      "name": "Slim Pant",
+      "image": "/images/d2.jpg",
+      "price": 999,
+      "product": {
+        "$oid": "6044be3f921c4e2c581b5961"
+      },
+      "qty": 1
+    }
+  ],
+  "shippingAddress": {
+    "fullName": "Gaurav Purohit",
+    "address": "16/43, chopasani housing board",
+    "city": "jodhpur",
+    "postalCode": "342001",
+    "country": "India"
+  },
+  "paymentMethod": "SBI",
+  "itemsPrice": 999,
+  "shippingPrice": 0,
+  "taxPrice": 149.85,
+  "totalPrice": 1148.85,
+  "user": {
+    "$oid": "6044ba9867ec442ffc25ac21"
+  },
+  "createdAt": {
+    "$date": "2021-03-08T17:46:45.189Z"
+  },
+  "updatedAt": {
+    "$date": "2021-03-09T17:04:02.920Z"
+  },
+  "__v": 0,
+  "paidAt": {
+    "$date": "2021-03-09T17:00:52.871Z"
+  },
+  "paymentResult": {
+    "id": "2KM30055RC1792332",
+    "status": "COMPLETED",
+    "update_time": "2021-03-09T17:00:51Z",
+    "email_address": null
+  },
+  "deliveredAt": {
+    "$date": "2021-03-09T17:04:02.912Z"
+  }
+},{
+  "_id": {
+    "$oid": "6046632d6b3e3f4490396875"
+  },
+  "isPaid": true,
+  "isDelivered": true,
+  "orderItems": [
+    {
+      "_id": {
+        "$oid": "6046632d6b3e3f4490396876"
+      },
+      "name": "Adidas Fit Shirt",
+      "image": "/images/p2.jpg",
+      "price": 1300,
+      "product": {
+        "$oid": "6044be3f921c4e2c581b595f"
+      },
+      "qty": 1
+    }
+  ],
+  "shippingAddress": {
+    "fullName": "Gaurav Purohit",
+    "address": "16/43, chopasani housing board",
+    "city": "jodhpur",
+    "postalCode": "342001",
+    "country": "India"
+  },
+  "paymentMethod": "SBI",
+  "itemsPrice": 1300,
+  "shippingPrice": 0,
+  "taxPrice": 195,
+  "totalPrice": 1495,
+  "user": {
+    "$oid": "6044ba9867ec442ffc25ac21"
+  },
+  "createdAt": {
+    "$date": "2021-03-08T17:47:25.720Z"
+  },
+  "updatedAt": {
+    "$date": "2021-03-09T17:13:54.253Z"
+  },
+  "__v": 0,
+  "paidAt": {
+    "$date": "2021-03-09T17:08:40.014Z"
+  },
+  "paymentResult": {
+    "id": "0S32436054434573J",
+    "status": "COMPLETED",
+    "update_time": "2021-03-09T17:08:39Z",
+    "email_address": null
+  },
+  "deliveredAt": {
+    "$date": "2021-03-09T17:13:54.213Z"
+  }
+},{
+  "_id": {
+    "$oid": "6047aceaf445010f88a11588"
+  },
+  "isPaid": true,
+  "isDelivered": true,
+  "seller": {
+    "$oid": "60467b960669243e0cad83f2"
+  },
+  "orderItems": [
+    {
+      "_id": {
+        "$oid": "6047aceaf445010f88a11589"
+      },
+      "name": "Tie knots",
+      "image": "/images/p1.jpg",
+      "price": 10,
+      "product": {
+        "$oid": "60475c532374ff112870726a"
+      },
+      "qty": 1
+    }
+  ],
+  "shippingAddress": {
+    "fullName": "Gaurav Purohit",
+    "address": "16/43, chopasani housing board",
+    "city": "jodhpur",
+    "postalCode": "342001",
+    "country": "India"
+  },
+  "paymentMethod": "SBI",
+  "itemsPrice": 10,
+  "shippingPrice": 0,
+  "taxPrice": 1.5,
+  "totalPrice": 11.5,
+  "user": {
+    "$oid": "60467b960669243e0cad83f2"
+  },
+  "createdAt": {
+    "$date": "2021-03-09T17:14:18.086Z"
+  },
+  "updatedAt": {
+    "$date": "2021-03-09T17:17:36.981Z"
+  },
+  "__v": 0,
+  "paidAt": {
+    "$date": "2021-03-09T17:15:04.528Z"
+  },
+  "paymentResult": {
+    "id": "80517016PT0440647",
+    "status": "COMPLETED",
+    "update_time": "2021-03-09T17:15:04Z",
+    "email_address": null
+  },
+  "deliveredAt": {
+    "$date": "2021-03-09T17:17:36.968Z"
+  }
+},{
+  "_id": {
+    "$oid": "6047aea7779cc9396009e2ba"
+  },
+  "isPaid": true,
+  "isDelivered": true,
+  "seller": {
+    "$oid": "60467b960669243e0cad83f2"
+  },
+  "orderItems": [
+    {
+      "_id": {
+        "$oid": "6047aea7779cc9396009e2bb"
+      },
+      "name": "Tie knots",
+      "image": "/images/p1.jpg",
+      "price": 10,
+      "product": {
+        "$oid": "60475c532374ff112870726a"
+      },
+      "qty": 1
+    }
+  ],
+  "shippingAddress": {
+    "fullName": "Gaurav Purohit",
+    "address": "16/43, chopasani housing board",
+    "city": "jodhpur",
+    "postalCode": "342001",
+    "country": "India"
+  },
+  "paymentMethod": "SBI",
+  "itemsPrice": 10,
+  "shippingPrice": 0,
+  "taxPrice": 1.5,
+  "totalPrice": 11.5,
+  "user": {
+    "$oid": "60467b960669243e0cad83f2"
+  },
+  "createdAt": {
+    "$date": "2021-03-09T17:21:43.438Z"
+  },
+  "updatedAt": {
+    "$date": "2021-03-09T17:26:00.469Z"
+  },
+  "__v": 0,
+  "paidAt": {
+    "$date": "2021-03-09T17:22:22.342Z"
+  },
+  "paymentResult": {
+    "id": "8GJ34012N58270941",
+    "status": "COMPLETED",
+    "update_time": "2021-03-09T17:22:22Z",
+    "email_address": null
+  },
+  "deliveredAt": {
+    "$date": "2021-03-09T17:26:00.456Z"
+  }
+},{
+  "_id": {
+    "$oid": "6047c061b2b155499c18046c"
+  },
+  "isPaid": true,
+  "isDelivered": false,
+  "seller": {
+    "$oid": "60467b960669243e0cad83f2"
+  },
+  "orderItems": [
+    {
+      "_id": {
+        "$oid": "6047c061b2b155499c18046d"
+      },
+      "name": "Tie knots",
+      "image": "/images/p1.jpg",
+      "price": 10,
+      "product": {
+        "$oid": "60475c532374ff112870726a"
+      },
+      "qty": 1
+    }
+  ],
+  "shippingAddress": {
+    "fullName": "Gaurav Purohit",
+    "address": "16/43, chopasani housing board",
+    "city": "jodhpur",
+    "postalCode": "342001",
+    "country": "India"
+  },
+  "paymentMethod": "SBI",
+  "itemsPrice": 10,
+  "shippingPrice": 0,
+  "taxPrice": 1.5,
+  "totalPrice": 11.5,
+  "user": {
+    "$oid": "6047b8d9255f460454b198ea"
+  },
+  "createdAt": {
+    "$date": "2021-03-09T18:37:21.604Z"
+  },
+  "updatedAt": {
+    "$date": "2021-03-09T18:37:51.544Z"
+  },
+  "__v": 0,
+  "paidAt": {
+    "$date": "2021-03-09T18:37:51.532Z"
+  },
+  "paymentResult": {
+    "id": "312498530K065864X",
+    "status": "COMPLETED",
+    "update_time": "2021-03-09T18:37:51Z",
+    "email_address": null
+  }
+},{
+  "_id": {
+    "$oid": "6047c3e4f71104198473111c"
+  },
+  "isPaid": true,
+  "isDelivered": false,
+  "seller": {
+    "$oid": "60467b960669243e0cad83f2"
+  },
+  "orderItems": [
+    {
+      "_id": {
+        "$oid": "6047c3e4f71104198473111d"
+      },
+      "name": "Tie knots",
+      "image": "/images/p1.jpg",
+      "price": 10,
+      "product": {
+        "$oid": "60475c532374ff112870726a"
+      },
+      "qty": 1
+    }
+  ],
+  "shippingAddress": {
+    "fullName": "Gaurav Purohit",
+    "address": "16/43, chopasani housing board",
+    "city": "jodhpur",
+    "postalCode": "342001",
+    "country": "India"
+  },
+  "paymentMethod": "HDFC",
+  "itemsPrice": 10,
+  "shippingPrice": 0,
+  "taxPrice": 1.5,
+  "totalPrice": 11.5,
+  "user": {
+    "$oid": "60467b960669243e0cad83f2"
+  },
+  "createdAt": {
+    "$date": "2021-03-09T18:52:20.612Z"
+  },
+  "updatedAt": {
+    "$date": "2021-03-09T18:53:00.143Z"
+  },
+  "__v": 0,
+  "paidAt": {
+    "$date": "2021-03-09T18:53:00.134Z"
+  },
+  "paymentResult": {
+    "id": "76922574HK378513L",
+    "status": "COMPLETED",
+    "update_time": "2021-03-09T18:53:00Z",
+    "email_address": null
+  }
+},{
+  "_id": {
+    "$oid": "6047c442f71104198473111e"
+  },
+  "isPaid": true,
+  "isDelivered": false,
+  "seller": {
+    "$oid": "60467b960669243e0cad83f2"
+  },
+  "orderItems": [
+    {
+      "_id": {
+        "$oid": "6047c442f71104198473111f"
+      },
+      "name": "Tie ",
+      "image": "/images/p1.jpg",
+      "price": 10,
+      "product": {
+        "$oid": "60475c532374ff112870726a"
+      },
+      "qty": 1
+    }
+  ],
+  "shippingAddress": {
+    "fullName": "Gaurav Purohit",
+    "address": "16/43, chopasani housing board",
+    "city": "jodhpur",
+    "postalCode": "342001",
+    "country": "India"
+  },
+  "paymentMethod": "ICICI",
+  "itemsPrice": 10,
+  "shippingPrice": 0,
+  "taxPrice": 1.5,
+  "totalPrice": 11.5,
+  "user": {
+    "$oid": "60467b960669243e0cad83f2"
+  },
+  "createdAt": {
+    "$date": "2021-03-09T18:53:54.734Z"
+  },
+  "updatedAt": {
+    "$date": "2021-03-09T18:54:39.227Z"
+  },
+  "__v": 0,
+  "paidAt": {
+    "$date": "2021-03-09T18:54:39.220Z"
+  },
+  "paymentResult": {
+    "id": "8W5011733Y405303N",
+    "status": "COMPLETED",
+    "update_time": "2021-03-09T18:54:39Z",
+    "email_address": null
+  }
+},{
+  "_id": {
+    "$oid": "605b1b1320ba3336342b4611"
+  },
+  "isPaid": false,
+  "isDelivered": false,
+  "seller": {
+    "$oid": "60467b960669243e0cad83f2"
+  },
+  "orderItems": [
+    {
+      "_id": {
+        "$oid": "605b1b1320ba3336342b4612"
+      },
+      "name": "Tie ",
+      "image": "/uploads\\1616583316015.jpg",
+      "price": 10,
+      "product": {
+        "$oid": "60475c532374ff112870726a"
+      },
+      "qty": 1
+    }
+  ],
+  "shippingAddress": {
+    "fullName": "Gaurav Purohit",
+    "address": "16/43, chopasani housing board",
+    "city": "jodhpur",
+    "postalCode": "342001",
+    "country": "India"
+  },
+  "paymentMethod": "SBI",
+  "itemsPrice": 10,
+  "shippingPrice": 0,
+  "taxPrice": 1.5,
+  "totalPrice": 11.5,
+  "user": {
+    "$oid": "60467b960669243e0cad83f2"
+  },
+  "createdAt": {
+    "$date": "2021-03-24T10:57:23.225Z"
+  },
+  "updatedAt": {
+    "$date": "2021-03-24T10:57:23.225Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "605da2d35d9a882cbccd0077"
+  },
+  "isPaid": false,
+  "isDelivered": false,
+  "seller": {
+    "$oid": "60467b960669243e0cad83f2"
+  },
+  "orderItems": [
+    {
+      "_id": {
+        "$oid": "605da2d35d9a882cbccd0078"
+      },
+      "name": "Tie ",
+      "image": "/uploads\\1616747066618.jpg",
+      "price": 10,
+      "product": {
+        "$oid": "60475c532374ff112870726a"
+      },
+      "qty": 1
+    }
+  ],
+  "shippingAddress": {
+    "fullName": "Gaurav Purohit",
+    "address": "16/43, chopasani housing board",
+    "city": "jodhpur",
+    "postalCode": "342001",
+    "country": "India"
+  },
+  "paymentMethod": "SBI",
+  "itemsPrice": 10,
+  "shippingPrice": 0,
+  "taxPrice": 1.5,
+  "totalPrice": 11.5,
+  "user": {
+    "$oid": "60467b960669243e0cad83f2"
+  },
+  "createdAt": {
+    "$date": "2021-03-26T09:01:08.008Z"
+  },
+  "updatedAt": {
+    "$date": "2021-03-26T09:01:08.008Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "605eae7b5bbe092b9cad475f"
+  },
+  "isPaid": true,
+  "isDelivered": true,
+  "seller": {
+    "$oid": "60467b960669243e0cad83f2"
+  },
+  "orderItems": [
+    {
+      "_id": {
+        "$oid": "605eae7b5bbe092b9cad4760"
+      },
+      "name": "Tie ",
+      "image": "/uploads\\1616747066618.jpg",
+      "price": 10,
+      "product": {
+        "$oid": "60475c532374ff112870726a"
+      },
+      "qty": 1
+    }
+  ],
+  "shippingAddress": {
+    "fullName": "Gaurav Purohit",
+    "address": "16/43, chopasani housing board",
+    "city": "jodhpur",
+    "postalCode": "342001",
+    "country": "India"
+  },
+  "paymentMethod": "ICICI",
+  "itemsPrice": 10,
+  "shippingPrice": 0,
+  "taxPrice": 1.5,
+  "totalPrice": 11.5,
+  "user": {
+    "$oid": "605eae505bbe092b9cad475e"
+  },
+  "createdAt": {
+    "$date": "2021-03-27T04:03:07.396Z"
+  },
+  "updatedAt": {
+    "$date": "2021-03-27T04:10:01.787Z"
+  },
+  "__v": 0,
+  "paidAt": {
+    "$date": "2021-03-27T04:07:32.141Z"
+  },
+  "paymentResult": {
+    "id": "8HD46626LE860550X",
+    "status": "COMPLETED",
+    "update_time": "2021-03-27T04:07:30Z",
+    "email_address": null
+  },
+  "deliveredAt": {
+    "$date": "2021-03-27T04:10:01.779Z"
+  }
+}]
